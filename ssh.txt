@@ -1,0 +1,15 @@
+lucasvstudios
+The key fingerprint is:
+SHA256:uyY5/hWgkwESf/haR5ZaTn4+nQ+OLlRF9LC9pEGYms4 lucasallamandri@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|  o..      ==    |
+|   o o   .o..=   |
+|    o o Bo .o +  |
+|     o %o..  + . |
+|      BoS.o . .  |
+|     o oE+ o .   |
+|    .  o. + +    |
+|      + oo + o   |
+|     ..=ooo . .  |
++----[SHA256]-----+
